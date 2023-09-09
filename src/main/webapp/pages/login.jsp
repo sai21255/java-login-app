@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Insert title</title>
 </head>
-<body bgcolor="silver">
+<body bgcolor="green">
 
 <center>${errorMessage }</center>
 
