@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Welcome to iwayQ Technology</title>
+<title>Welcome to iway Technology</title>
 </head>
 <body>
 Welcome ${username}
