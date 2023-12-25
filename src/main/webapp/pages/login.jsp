@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title</title>
 </head>
-<body bgcolor="red">
+<body bgcolor="yellow">
 
 <center>${errorMessage }</center>
 
